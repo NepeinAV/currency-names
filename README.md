@@ -38,3 +38,4 @@ currency.names(["USD", "USN", "USS"], "en");
 - [ ] Add countries (their `ISO 639-3` codes) using this currency to every code
 - [ ] Add custom delimeter for output strings
 - [ ] Support for input data as delimited string with choise for delimeter
+- [ ] Making it work in browsers
