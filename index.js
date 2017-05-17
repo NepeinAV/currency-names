@@ -15,27 +15,6 @@ function getCurrencyNames(code, locale = "ru") {
 				.map(c => data[c][locale])
 				.join(', ')
 	}
-
-
-
 }
-
-
-
-
-
-
-
-
-
-
-console.log(getCurrencyNames());
-
-
-
-
-
-
-
 
 module.exports = currency;

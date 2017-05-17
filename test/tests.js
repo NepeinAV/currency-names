@@ -1,6 +1,5 @@
 var currency = require('../index');
 var assert = require('chai').assert;
-var _ = require('lodash');
 
 suite('currency:', function () {
 
@@ -20,11 +19,6 @@ suite('currency:', function () {
 		var multipleArrayRuString = 'Доллар США, Доллар следующего дня, Доллар того же дня';
 		var multipleArrayEnString = 'US Dollar, US Dollar (Next day), US Dollar (Same day)';
 
-	setup(function () {
-
-
-
-	});
 
 	test('`currency` is an object', function () {
 		assert.isObject(currency);
@@ -110,36 +104,5 @@ suite('currency:', function () {
 		});
 
 	});
-
-
-	// пустой массив
-	// массив
-	// строка
-	// без указания локали
-	//
-
-
-	// test('contains all alpha3 codes as in meldoze/countries', function() {
-	// 	// собираем все уникальные коды языков, использованные в https://github.com/mledoze/countries/blob/master/countries.json
-	// 	// в нашем случае это sources/countries.json
-	// 	let allCountriesLanguageCodes = _.uniq(_.flatten(countries.map(country => _.keys(country.languages))));
-
-	// 	// берем все коды языков из нашей библиотеки
-	// 	let allRussianLanguageCodes = langs.codes(3);
-
-	// 	// сравниваем, если получаем 0 - значит все коды есть и покрыты
-	// 	let difference = _.difference(allCountriesLanguageCodes, allRussianLanguageCodes).length;
-
-	// 	assert.equal(difference, 0);
-	// });
-
-	// 	suite('alpha2:', function () {
-
-	// 		test('`langs.alpha2` is a function', function () {
-	// 			assert.isFunction(langs.alpha2);
-	// 		});
-
-	// 	});
-
 });
 
