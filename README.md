@@ -1,5 +1,5 @@
 ## Description
-I made this package for working with countries data by [meldoze](https://github.com/mledoze/countries). They are using arrays with `ISO 4217` currency codes, so, using my package you can convert them to string with their names. Names available on Russian and English. Codes and named taken from [Wikipedia](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B4%D1%8B_%D0%B8_%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%D1%8B_%D0%B2%D0%B0%D0%BB%D1%8E%D1%82).
+I made this package for working with countries data by [mledoze](https://github.com/mledoze/countries). They are using arrays with `ISO 4217` currency codes, so, using my package you can convert them to string with their names. Names available on Russian and English. Codes and named taken from [Wikipedia](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B4%D1%8B_%D0%B8_%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%D1%8B_%D0%B2%D0%B0%D0%BB%D1%8E%D1%82).
 
 ## Documentation
 ```js
