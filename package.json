@@ -1,6 +1,6 @@
 {
   "name": "currency-codes-ru-en-names",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Small library for getting currency names by currency code(s). Names available on Russian and English. 184 currency codes in total.",
   "main": "index.js",
   "scripts": {
