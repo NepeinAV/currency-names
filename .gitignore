@@ -1,6 +1,7 @@
 node_modules
 sources/mledoze.json
 sources/thebasetrip.json
+sources/countries.json
 sources/ruwiki.xlsx
 sources/ruwiki.csv
 util.js
