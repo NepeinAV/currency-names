@@ -96,7 +96,7 @@
     "en": "Pula"
   },
   "BYN": {
-    "ru": "Белорусский рубль",
+    "ru": "Беларуский рубль",
     "en": "Belarussian Ruble"
   },
   "BZD": {
@@ -256,8 +256,8 @@
     "en": "Forint"
   },
   "IDR": {
-    "ru": "Рупия",
-    "en": "Rupiah"
+    "ru": "Индонезийская рупия",
+    "en": "Индонезийская рупия"
   },
   "ILS": {
     "ru": "Новый израильский шекель",
@@ -296,8 +296,8 @@
     "en": "Kenyan Shilling"
   },
   "KGS": {
-    "ru": "Сом",
-    "en": "Som"
+    "ru": "Киргизский сом",
+    "en": "Kyrgyz som"
   },
   "KHR": {
     "ru": "Риель",
@@ -324,8 +324,8 @@
     "en": "Cayman Islands Dollar"
   },
   "KZT": {
-    "ru": "Тенге",
-    "en": "Tenge"
+    "ru": "Казахстанский тенге",
+    "en": "Kazakhstani tenge"
   },
   "LAK": {
     "ru": "Кип",
